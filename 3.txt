@@ -1,2 +1,3 @@
 file 3 nhanh master
 sua abc
+sua den khi thay ok thi gap nhanh
